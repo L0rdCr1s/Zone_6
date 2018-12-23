@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Zone_6
+Comment=Material Dark Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Zone_6
+MetacityTheme=Zone_6
+IconTheme=La Capitaine
+CursorTheme=La Capitaine
+CursorSize=24
